@@ -1,5 +1,4 @@
-$( ".cross" ).hide();
-$( ".nav" ).hide();
+
 
 $( ".hamburger" ).click(function() {
 	$('.nav').toggle();
